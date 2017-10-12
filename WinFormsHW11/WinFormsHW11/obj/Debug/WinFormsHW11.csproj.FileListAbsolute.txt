@@ -1,0 +1,10 @@
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\bin\Debug\WinFormsHW11.exe.config
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\bin\Debug\WinFormsHW11.exe
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\bin\Debug\WinFormsHW11.pdb
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.Explorer.resources
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.Properties.Resources.resources
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.csproj.GenerateResource.Cache
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.csproj.CoreCompileInputs.cache
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.exe
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.pdb
+D:\WindowsForms\HomeWork\WinFormsHW11\WinFormsHW11\obj\Debug\WinFormsHW11.csprojResolveAssemblyReference.cache
